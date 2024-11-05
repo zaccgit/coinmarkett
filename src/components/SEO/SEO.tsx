@@ -14,7 +14,7 @@ interface SEOProps {
 }
 
 const SEO = ({
-	title = 'Follow Your Favourite Cryptocurrencies And Tokens | CoinMarketCap 2.0',
+	title = 'Cryptocurrencies Prices, Charts |',
 	description = 'Build your own personalized cryptocurrency watchlist ✔️ Select from all cryptocurrencies and tokens ✔️ Follow the latest prices ✔️ BTC ✔️ ETH ✔️ BCH ✔️',
 	siteName = 'CoinMarketCap 2.0',
 	canonical = DOMAIN,
